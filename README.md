@@ -1,4 +1,8 @@
-### Hi there 👋
+### In the land of Programming, exists a fine developer :wink:
+
+> Let me drop some intros, then dive into what I do
+
+
 
 <!--
 **Adiomojeed/Adiomojeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
