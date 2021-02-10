@@ -4,7 +4,7 @@
 
 :sparkles: I am Adio Mojeed nicknamed **codeLeaf**, a frontend developer with expertise in manipulating web technologies to provide solutions. I perform magics with [ReactJs](https://reactjs.org) :six_pointed_star: combined with other technologies, [Bootstrap](https://getbootstrap.com), [Firebase](http://firebase.google.com/) :fire:	.
 
-:sparkles: I am presently going through PHP/Laravel to learn Backend Technologies and migrate to a fullstack developer :muscle:. I am excited to work on Frontend projects and also open to job opputunities and also collaborate on Open source projects.
+:sparkles: I am presently going through Node/Express/MongoDB to learn Backend Technologies and migrate to a fullstack developer :muscle:. I am excited to work on Frontend projects and also open to job opputunities and also collaborate on Open source projects.
 
 :sparkles: Finally, I am willing to give back to the tech community and also help others grow
 
