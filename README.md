@@ -9,7 +9,7 @@
 
 :computer: Senior Frontend Engineer.
 
-🖖 React.𝙟𝙨 master | 🍎 fast 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 
+🖖 React.𝙟𝙨 Master | 🍎 avid 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 
 
 :writing_hand: I am a fan of clean architecture and structure, DRY, responsive designs and elegant/maintainable codebases
 
