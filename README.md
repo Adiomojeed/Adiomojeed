@@ -2,13 +2,13 @@
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/adio_mojeed?style=social&logoColor=blue&color=white)
 [![](https://img.shields.io/badge/-@Adiomojeeed-%23181717?style=flat-square&logo=github)](https://github.com/Adiomojeed)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=mailto:adio.mojeed@gmail.com&url=mailto:adio.mojeed@gmail.com)](adio.mojeed@gmail.com)
+[![](https://img.shields.io/badges?color=0ab9e6&logo=gmail&url=mailto:adio.mojeed@gmail.com)](mailto:adio.mojeed@gmail.com)
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
 :computer: Senior Frontend Engineer.
 
-🖖 React.𝙟𝙨 𝙛𝙖𝙣𝙖𝙩𝙞𝙘𝙨 | 🍎 fast 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 
+🖖 React.𝙟𝙨 master | 🍎 fast 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 
 
 :writing_hand: I am a fan of clean architecture and structure, DRY, responsive designs and elegant/maintainable codebases
 
@@ -42,8 +42,7 @@ You are welcome 🤝
 - [Shoot a mail](mailto://adio.mojeed@gmail.com)
 - [LinkedIn](https://linkedin.com/in/adiomojeed)
 - [Twitter](https://twitter.com/adio_mojeed)
-- [WhatsApp](https://wa.me/2347067391684)
-- 
+- [WhatsApp](https://wa.me/2347067391684) 
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
