@@ -2,7 +2,7 @@
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/adio_mojeed?style=social&logoColor=blue&color=white)
 [![](https://img.shields.io/badge/-@Adiomojeeed-%23181717?style=flat-square&logo=github)](https://github.com/Adiomojeed)
-[![](https://img.shields.io/badges?color=0ab9e6&logo=gmail&url=mailto:adio.mojeed@gmail.com)](mailto:adio.mojeed@gmail.com)
+[![](https://img.shields.io/badges/-@Adiomojeeed-%23181717&color=0ab9e6&logo=gmail&url=mailto:adio.mojeed@gmail.com)](mailto:adio.mojeed@gmail.com)
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
