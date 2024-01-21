@@ -36,11 +36,15 @@
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![NPM](https://img.shields.io/badge/-npm-FCA121?style=flat-square&logo=npm)
+![PNPM](https://img.shields.io/badge/-pnpm-FCA121?style=flat-square&logo=pnpm)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Yarn](https://img.shields.io/badge/-yarn-FCA121?style=flat-square&logo=yarn)
 
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-
+![Jenkins](https://img.shields.io/badge/-jenkins-FCA121?style=flat-square&logo=jenkins)
+![AWS Amplify](https://img.shields.io/badge/-awsamplify-FCA121?style=flat-square&logo=awsamplify)
 
 <!--
 ### Want to get in touch with me? 
