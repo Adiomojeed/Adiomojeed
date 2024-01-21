@@ -2,7 +2,7 @@
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/adio_mojeed?style=social&logoColor=blue&color=white)
 [![](https://img.shields.io/badge/-@Adiomojeeed-%23181717?style=flat-square&logo=github)](https://github.com/Adiomojeed)
-[![](https://img.shields.io/badges/-@Adiomojeeed-%23181717&color=0ab9e6&logo=gmail&url=mailto:adio.mojeed@gmail.com)](mailto:adio.mojeed@gmail.com)
+[![](https://img.shields.io/badge/shoot%20a%20mail-grey?style=for-the-badge&logo=gmail)](mailto:adio.mojeed@gmail.com)
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
@@ -37,6 +37,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
 
+<!--
 ### Want to get in touch with me? 
 You are welcome 🤝
 - [Shoot a mail](mailto://adio.mojeed@gmail.com)
@@ -48,7 +49,7 @@ You are welcome 🤝
 
 ![Adio Mojeed's github stats](https://github-readme-stats.vercel.app/api?username=Adiomojeed&show_icons=true&theme=radical)
 
-<!--
+
 **Adiomojeed/Adiomojeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
