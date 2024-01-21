@@ -22,11 +22,11 @@
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23000000?style=flat-square&logo=nodedotjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%23000000?style=flat-square&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-Mongo&20DB-%23000000?style=flat-square&logo=mongodb)
 
 ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-%231a202c?style=flat-square&logo=tailwind-css)
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-%231a202c?style=flat-square&logo=chakraui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%231a202c?style=flat-square&logo=bootstrap)
 
@@ -36,15 +36,15 @@
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![NPM](https://img.shields.io/badge/-npm-FCA121?style=flat-square&logo=npm)
-![PNPM](https://img.shields.io/badge/-pnpm-000000?style=flat-square&logo=pnpm)
+![NPM](https://img.shields.io/badge/-NPM-000000?style=flat-square&logo=npm)
+![PNPM](https://img.shields.io/badge/-PNPM-000000?style=flat-square&logo=pnpm)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Yarn](https://img.shields.io/badge/-yarn-FCA121?style=flat-square&logo=yarn)
+![Yarn](https://img.shields.io/badge/-Yarn-FCA121?style=flat-square&logo=yarn)
 
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-![Jenkins](https://img.shields.io/badge/-jenkins-000000?style=flat-square&logo=jenkins)
-![AWS Amplify](https://img.shields.io/badge/-awsamplify-000000?style=flat-square&logo=awsamplify)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat-square&logo=jenkins)
+![AWS Amplify](https://img.shields.io/badge/-AWS%20Amplify-000000?style=flat-square&logo=awsamplify)
 
 <!--
 ### Want to get in touch with me? 
