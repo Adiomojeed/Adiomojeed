@@ -21,10 +21,14 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-%23000000?style=flat-square&logo=nodedotjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%23000000?style=flat-square&logo=mongodb)
 
 ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-%231a202c?style=flat-square&logo=chakraui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%231a202c?style=flat-square&logo=bootstrap)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
