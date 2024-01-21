@@ -2,6 +2,7 @@
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/adio_mojeed?style=social&logoColor=blue&color=white)
 [![](https://img.shields.io/badge/-@Adiomojeeed-%23181717?style=flat-square&logo=github)](https://github.com/Adiomojeed)
+[![](https://img.shields.io/badge/Linkedin-grey?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Adiomojeed)
 [![](https://img.shields.io/badge/shoot%20a%20mail-grey?style=for-the-badge&logo=gmail)](mailto:adio.mojeed@gmail.com)
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
@@ -12,7 +13,7 @@
 
 :writing_hand: I am a fan of clean architecture and structure, DRY, responsive designs and elegant/maintainable codebases
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## Some of m𝘆 𝗧𝗲𝗰hnology 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
